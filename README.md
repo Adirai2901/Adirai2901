@@ -29,7 +29,7 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Adirai2901&layout=compact&theme=dark)
 
-## 🔥 Contribution Streak
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=Adirai2901&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 
