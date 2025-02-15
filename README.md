@@ -8,7 +8,7 @@
 - 🔝 Working on **DSA and Java Projects**
 - 🎯 Goals: Become proficient in **Data Structures & Algorithms**
 - 💬 Ask me about **Java, DSA, and Web Development**
-- 📩 How to reach me:
+- 📩 How to reach me:  
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-rai-91b22a249/)  
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:adirai2901@gmail.com)
 
