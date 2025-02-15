@@ -25,9 +25,18 @@
 [![SQL](https://img.shields.io/badge/SQL-%230066B8.svg?style=flat&logo=sqlite&logoColor=white)](https://www.w3schools.com/sql/)
 
 ## 🔥 My GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adirai2901&show_icons=true&theme=dark)
+## 🔥 My GitHub Stats  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Adirai2901&layout=compact&theme=dark)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Adirai2901&show_icons=true&theme=dark" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adirai2901&layout=compact&theme=dark" />
+    </td>
+  </tr>
+</table>
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Adirai2901&theme=dark&hide_border=true)](https://git.io/streak-stats)
