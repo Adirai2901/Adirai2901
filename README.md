@@ -29,8 +29,8 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Adirai2901&layout=compact&theme=dark)
 
-## 🔥 Contribution Streak
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Adirai2901&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Adirai2901&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
 
 ## 📌 Featured Projects
 - 🎮 [Netflix Clone](https://github.com/Adirai2901/netflix-clone) *(HTML, CSS)*
