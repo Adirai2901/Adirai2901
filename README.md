@@ -1,28 +1,27 @@
 # Hi there, I'm Aditya Rai! 👋  
 
-🚀 I love coding and exploring new technologies!  
-💻 Currently learning **Java, DSA, and Web Development**.  
-🌱 Open to collaborations on interesting projects!  
+🚀 Passionate about coding and backend development!  
+💻 Currently learning **Java, Spring Boot, Hibernate, and PostgreSQL**  
 
-## 📌 About Me
-- 🔝 Working on **DSA and Java Projects**
-- 🎯 Goals: Become proficient in **Data Structures & Algorithms**
-- 💬 Ask me about **Java, DSA, and Web Development**
-- 📩 How to reach me:  
+
+## 📌 About Me  
+- 🔝 Working on **Backend Development & DSA**  
+- ⚡ Learning **Hibernate, PostgreSQL, System Design Basics**  
+- 🏆 Solving **LeetCode DSA problems**   
+- 📩 Reach me:  
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-rai-91b22a249/)  
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:adirai2901@gmail.com)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:adirai2901@gmail.com)  
 
-## 🚀 Technologies & Tools
-## 🚀 Technologies & Tools
+## 🚀 Technologies & Tools  
 
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-%230066B8.svg?style=flat&logo=sqlite&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)  
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=flat&logo=spring&logoColor=white)  
+![Hibernate](https://img.shields.io/badge/Hibernate-%23583968.svg?style=flat&logo=hibernate&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=flat&logo=postgresql&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white)
+![DSA](https://img.shields.io/badge/DSA-%23FF6F00.svg?style=flat&logo=leetcode&logoColor=white)  
 
-
-## 🔥 My GitHub Stats
+## 🔥 GitHub Stats  
 
 <table>
   <tr>
@@ -35,9 +34,9 @@
   </tr>
 </table>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Adirai2901&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Adirai2901&theme=dark&hide_border=true)](https://git.io/streak-stats)  
 
-## 📌 Featured Projects
-- 🎮 [Netflix Clone](https://github.com/Adirai2901/netflix-clone) *(HTML, CSS)*
-- 📚 [Learning DSA](https://github.com/Adirai2901/Learning-DSA) *(Java, Algorithms)*
-- 🛂 [SRM FreshCart](https://github.com/Adirai2901/SRM-FRESHCART) *(CSS, UI/UX)*
+## 📌 Featured Projects  
+- 🎬 [Netflix Clone](https://github.com/Adirai2901/netflix-clone) *(HTML, CSS)*  
+- 🛢 [JDBC & Hibernate Practice](https://github.com/Adirai2901/jdbc-hibernate) *(Java, PostgreSQL, Hibernate)*  
+- 📚 [DSA Practice](https://github.com/Adirai2901/Learning-DSA) *(Java, Algorithms, LeetCode Solutions)*  
