@@ -25,7 +25,9 @@ Hi there, I'm Aditya Rai! 👋
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML-%23E34F26?style=for-the-badge&logo=html5&logoColor=white" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS-%231572B6?style=for-the-badge&logo=css3&logoColor=white" /></a>
   <a href="https://leetcode.com/"><img src="https://img.shields.io/badge/DSA-%23FF6F00?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+  <a href="https://docs.oracle.com/javase/tutorial/jdbc/overview/"><img src="https://img.shields.io/badge/JDBC-%23007ACC?style=for-the-badge&logo=java&logoColor=white" /></a>
 </p>
+
 
 ## 🔥 GitHub Stats  
 
