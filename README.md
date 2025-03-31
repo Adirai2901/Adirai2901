@@ -1,7 +1,8 @@
-# Hi there, I'm Aditya Rai! 👋  
+Hi there, I'm Aditya Rai! 👋  
 
 🚀 Passionate about coding and backend development!  
 💻 Currently learning **Java, Spring Boot, Hibernate, and PostgreSQL**  
+
 
 ## 📌 About Me  
 - 🔝 Working on **Backend Development & DSA**  
@@ -13,14 +14,12 @@
 
 ## 🚀 Technologies & Tools  
 
-<p align="center">
-  <a href="https://openjdk.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Java_logo_%28new%29.svg" width="50" /></a>
-  <a href="https://spring.io/projects/spring-boot"><img src="https://upload.wikimedia.org/wikipedia/commons/5/52/Spring_Framework_Logo_2018.svg" width="50" /></a>
-  <a href="https://hibernate.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Hibernate_ORM_logo.svg" width="50" /></a>
-  <a href="https://www.postgresql.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="50" /></a>
-  <a href="https://www.postgresql.org/docs/"><img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="50" /></a>
-  <a href="https://leetcode.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e1/LeetCode_logo_2021.svg" width="50" /></a>
-</p>
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)  
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=flat&logo=spring&logoColor=white)  
+![Hibernate](https://img.shields.io/badge/Hibernate-%23583968.svg?style=flat&logo=hibernate&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=flat&logo=postgresql&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white)
+![DSA](https://img.shields.io/badge/DSA-%23FF6F00.svg?style=flat&logo=leetcode&logoColor=white)  
 
 ## 🔥 GitHub Stats  
 
@@ -41,3 +40,6 @@
 - 🎬 [Netflix Clone](https://github.com/Adirai2901/netflix-clone) *(HTML, CSS)*  
 - 🛢 [JDBC & Hibernate Practice](https://github.com/Adirai2901/jdbc-hibernate) *(Java, PostgreSQL, Hibernate)*  
 - 📚 [DSA Practice](https://github.com/Adirai2901/Learning-DSA) *(Java, Algorithms, LeetCode Solutions)*  
+
+
+bro this is my  github read me i need some changes 
