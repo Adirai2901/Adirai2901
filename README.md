@@ -14,17 +14,18 @@ Hi there, I'm Aditya Rai! 👋
 
 ## 🚀 Technologies & Tools  
 
-[![Java](https://img.shields.io/badge/Java-%23ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://dev.java/)  
-[![Spring](https://img.shields.io/badge/Spring-%236DB33F?style=flat-square&logo=spring&logoColor=white)](https://spring.io/)  
-[![Microservices](https://img.shields.io/badge/Microservices-%2300A8E8?style=flat-square&logo=apache&logoColor=white)](https://microservices.io/)  
-[![Hibernate](https://img.shields.io/badge/Hibernate-%23583968?style=flat-square&logo=hibernate&logoColor=white)](https://hibernate.org/)  
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org/)  
-[![Docker](https://img.shields.io/badge/Docker-%232496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)  
-[![Maven](https://img.shields.io/badge/Maven-%23C71A36?style=flat-square&logo=apache-maven&logoColor=white)](https://maven.apache.org/)  
-[![HTML](https://img.shields.io/badge/HTML-%23E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)  
-[![CSS](https://img.shields.io/badge/CSS-%231572B6?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)  
-[![DSA](https://img.shields.io/badge/DSA-%23FF6F00?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/)  
-
+<p align="center">
+  <a href="https://dev.java/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" width="50" height="50"/></a>
+  <a href="https://spring.io/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" title="Spring" width="50" height="50"/></a>
+  <a href="https://microservices.io/"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-microservices-an-architectural-style-that-structures-an-application-logo-color-tal-revivo.png" title="Microservices" width="50" height="50"/></a>
+  <a href="https://hibernate.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" title="Hibernate" width="50" height="50"/></a>
+  <a href="https://www.postgresql.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" width="50" height="50"/></a>
+  <a href="https://www.docker.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" width="50" height="50"/></a>
+  <a href="https://maven.apache.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" title="Maven" width="50" height="50"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML" width="50" height="50"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS" width="50" height="50"/></a>
+  <a href="https://leetcode.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" title="DSA (LeetCode)" width="50" height="50"/></a>
+</p>
 
 ## 🔥 GitHub Stats  
 
