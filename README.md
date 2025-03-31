@@ -14,72 +14,18 @@ Hi there, I'm Aditya Rai! 👋
 
 ## 🚀 Technologies & Tools  
 
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://dev.java/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
-        <br><small>Java</small>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://spring.io/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40"/>
-        <br><small>Spring</small>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://microservices.io/">
-        <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-microservices-an-architectural-style-that-structures-an-application-logo-color-tal-revivo.png" width="40" height="40"/>
-        <br><small>Microservices</small>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://hibernate.org/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" width="40" height="40"/>
-        <br><small>Hibernate</small>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.postgresql.org/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
-        <br><small>PostgreSQL</small>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://www.docker.com/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
-        <br><small>Docker</small>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://maven.apache.org/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" width="40" height="40"/>
-        <br><small>Maven</small>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
-        <br><small>HTML</small>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
-        <br><small>CSS</small>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://leetcode.com/">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40" height="40"/>
-        <br><small>DSA (LeetCode)</small>
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="left">
+  <a href="https://dev.java/"><img src="https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /></a>
+  <a href="https://spring.io/"><img src="https://img.shields.io/badge/Spring-%236DB33F?style=for-the-badge&logo=spring&logoColor=white" /></a>
+  <a href="https://microservices.io/"><img src="https://img.shields.io/badge/Microservices-%2300A8E8?style=for-the-badge&logo=apache&logoColor=white" /></a>
+  <a href="https://hibernate.org/"><img src="https://img.shields.io/badge/Hibernate-%23583968?style=for-the-badge&logo=hibernate&logoColor=white" /></a>
+  <a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/PostgreSQL-%23336791?style=for-the-badge&logo=postgresql&logoColor=white" /></a>
+  <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white" /></a>
+  <a href="https://maven.apache.org/"><img src="https://img.shields.io/badge/Maven-%23C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML-%23E34F26?style=for-the-badge&logo=html5&logoColor=white" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS-%231572B6?style=for-the-badge&logo=css3&logoColor=white" /></a>
+  <a href="https://leetcode.com/"><img src="https://img.shields.io/badge/DSA-%23FF6F00?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+</p>
 
 ## 🔥 GitHub Stats  
 
