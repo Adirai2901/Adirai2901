@@ -3,7 +3,6 @@
 🚀 Passionate about coding and backend development!  
 💻 Currently learning **Java, Spring Boot, Hibernate, and PostgreSQL**  
 
-
 ## 📌 About Me  
 - 🔝 Working on **Backend Development & DSA**  
 - ⚡ Learning **Hibernate, PostgreSQL, System Design Basics**  
@@ -14,12 +13,14 @@
 
 ## 🚀 Technologies & Tools  
 
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)  
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=flat&logo=spring&logoColor=white)  
-![Hibernate](https://img.shields.io/badge/Hibernate-%23583968.svg?style=flat&logo=hibernate&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=flat&logo=postgresql&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white)
-![DSA](https://img.shields.io/badge/DSA-%23FF6F00.svg?style=flat&logo=leetcode&logoColor=white)  
+<p align="center">
+  <a href="https://openjdk.org/"><img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" /></a>
+  <a href="https://spring.io/projects/spring-boot"><img src="https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" /></a>
+  <a href="https://hibernate.org/"><img src="https://img.shields.io/badge/Hibernate-%23583968.svg?style=for-the-badge&logo=hibernate&logoColor=white" /></a>
+  <a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white" /></a>
+  <a href="https://www.postgresql.org/docs/"><img src="https://img.shields.io/badge/SQL-%2300f.svg?style=for-the-badge&logo=postgresql&logoColor=white" /></a>
+  <a href="https://leetcode.com/"><img src="https://img.shields.io/badge/DSA-%23FF6F00.svg?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+</p>
 
 ## 🔥 GitHub Stats  
 
