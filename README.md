@@ -49,5 +49,3 @@ Hi there, I'm Aditya Rai! 👋
 - 🛢 [JDBC & Hibernate Practice](https://github.com/Adirai2901/jdbc-hibernate) *(Java, PostgreSQL, Hibernate)*  
 - 📚 [DSA Practice](https://github.com/Adirai2901/Learning-DSA) *(Java, Algorithms, LeetCode Solutions)*  
 
-
-bro this is my  github read me i need some changes 
